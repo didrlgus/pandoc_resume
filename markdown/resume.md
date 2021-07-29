@@ -96,5 +96,4 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <rlgusdid@naver.com> • +00 (0)00 000 0000 • XX years old\
